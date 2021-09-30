@@ -5,7 +5,7 @@
 
 1. Stáhněte si z repozitáře soubory cover.css a cover.html
 2. Do root adresáře webového serveru nahrajte oba soubory.
-3. Přejmenujte soubor cover.html aby se při vstupu na URL `https:localhost/PVA4/cviceni_01/` automaticky načetl, přípona php.
+3. Přejmenujte soubor cover.html aby se při vstupu na URL `https:localhost/PVA4/cviceni_02/` automaticky načetl, přípona php.
 4. Upravte hlavičku webové stránky, aby se všechny všechny řádky bloku <head> generovaly příkazem `echo` a nebo `print`
 5. Do tagu nadpisu 1 vložte php kód, který vypíše na stránku text `Hello World!` a vyzkoušejte výstup.
 6. Vytvořte kopii webové stránky a uložte ji pod názvem aboutme.php V tomto souboru prozatím nepracujte. Věnuje se mu další část.
