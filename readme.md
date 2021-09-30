@@ -1,3 +1,8 @@
+# PVA4 - Programování a vývoj aplikací
+## Lekce 02: Výstup a kombinace s HTML
+
+## Obsah
+
 1. Stáhněte si z repozitáře soubory cover.css a cover.html
 2. Do root adresáře webového serveru nahrajte oba soubory.
 3. Přejmenujte soubor cover.html aby se při vstupu na URL `https:localhost/PVA4/cviceni_01/` automaticky načetl, přípona php.
